@@ -1,4 +1,3 @@
-<script>
 var objJson = [{
 		"height": "486",
 		"width": "345",
@@ -79,4 +78,3 @@ var objJson = [{
 		"cite": ""
 	}
 ];
-</script>
