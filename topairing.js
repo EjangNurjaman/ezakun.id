@@ -1795,7 +1795,7 @@ try {
   var riter = [7][ITERATOR$3]();
   riter['return'] = function () { SAFE_CLOSING = true; };
   // eslint-disable-next-line no-throw-literal
-  
+
 } catch (e) { /* empty */ }
 
 var _iterDetect = function (exec, skipClosing) {
