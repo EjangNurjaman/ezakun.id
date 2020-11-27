@@ -2254,7 +2254,7 @@ var currentlyAiringAnime = function () {
                         }
                         options.malIdIn = options.malIdIn || undefined;
                         options.aniIdIn = options.aniIdIn || undefined;
-                        options.sort = options.sort || ['SCORE'];
+                        options.sort = options.sort || ['START_DATE'];
 
                         if (!(options.malIdIn !== undefined && !Array.isArray(options.malIdIn))) {
                             _context3.next = 7;
